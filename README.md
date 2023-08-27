@@ -1,2 +1,3 @@
 # UROPS_CVCNN
-Testing Implementations of Complex Valued Convolutional Neural Networks and supporting GNN Pipelines
+
+Testing Implementations of Deep Complex Valued Convolutional Neural Networks and modified GNN pipelines to efficiently process complex inputs.
